@@ -2,79 +2,86 @@ Mod for the game Vintage Story
 
 This mod adds:
 Oceans:
--there are two variants: the deep ocean and the flat ocean
--flat ocean:
-    -in the flat ocean they can spawn kelp, seagrass and corals
-    -the kelp grows in a kelpforest and there are three kelptypes: the giankelp, the sugarkelp and the bullekp
-   -corals spawn in reefs, there are four types of them: the black coral, the brain one, the large polyp stony coral xD and the bubble coral
-   -for all coral variants there are coral ferns
--deep ocean:
-  -in the deep ocean you can find nothing else but hydrothermal vents with giant tube worms and deep clams (but trust me, they are very cool :))
--in both ocean variants (and sometimes in lakes too) you can now find sunken ships and ruined sunken villages with different loot
+  -there are two variants: the deep ocean and flat ocean
+  -flat ocean:
+    -in the flat ocean there can spawn kelp, seagrass and corals
+    -the kelp grows in a kelpforest and there are three kelptypes: the giankelp, the sugar kelp and the bull kelp
+    -corals spawn in reefs, there are four types of them: the black coral, the brain one, the large polyp stony coral and the bubble coral
+    -for all coral variants there are coral ferns
+  -deep ocean:
+    -in the deep ocean you can find nothing else but hydrothermal vents with giant tube worms and deep clams (but trust me, they are very cool :))
+  -in both ocean variants (and sometimes in lakes too) you can now find sunken ships and ruined sunken villages with different loot
+
 Fishes:
--this mod adds also 7 new fishtypes to the game:
-  -the cavernfish, which spawns in specially generated caves below y = 20
-  -blobfishes and barreleyes, whith live in the deep ocean variant
-  -salmons and pikes (spawn in normal lakes or in the shallow water)
-  -butterflyfisches spawn now in kelpforests
-  -and white sharks, which will attack you and spawn also in the ocean, in both variants
--you can kill and eat the fishes, BUT DONT DO THAT, they are so cool and exist not to be eaten by you! (the fishes give a very small amount of hunger back, because of this reason, but if you are that cruel, and want to kill them, you can change the "nutritionprops" in the files: blobfisch, geisterfisch, hecht, höhlenfisch, lachs and sharkmeet in the itemtypes folder of the mod)
--you can even cook the fishes (BUT THIS ALSO IS NOT DESIRED)
--craft a fishbucket with a normal bucket, for catching fishes in it
--you can release the chatched fishes whereever you want and they should not despawn
+  -this mod also adds 7 new fishtypes to the game:
+    -the cavern fish, which spawns in specially generated caves below y=20
+    -blobfishes and barreleyes, which live in the deep ocean variant
+    -salmons and pikes (spawn in normal lakes or in the shallow water)
+    -butterfly fishes now spawn in kelp forests
+    -and white sharks, which will attack you and spawn in the ocean, in both variants
+  -you can kill and eat the fishes, BUT DONT DO THAT, they are so cool and don't exist to be eaten by you! (the fishes give a very small amount of hunger back, because of this reason, but if you are that cruel, and want to kill them, you can change the "nutritionprops" in the files: blobfisch, geisterfisch,  hecht, höhlenfisch, lachs and sharkmeet in the itemtypes folder of the mod)
+  -you can even cook the fishes (BUT THIS ALSO IS NOT DESIRED)
+  -craft a fish bucket with a normal bucket for catching fish
+  -you can release the catched fishes whereever you want and they will not despawn
+
 Mushrooms:
--you can find 3 new mushrooms now:
-  -the stallionmushroom grows only on meadows, not in the forests
-  -morels grow in the forests and on the meadows
-    -when eaten, the morel regenerates some life
-  -hollowfunguses grow in special caves, filled with mushroomrooted stone (break with shovel)
-    -the glow in the dark, need the most time of all 3 mushrooms to grow and give the lessest saturation
-    -maybe you need dig through the rock to find some :)
--all mushrooms can be cooked in mushroomsoups
-Popy:
--in the original game there is already one popy: the golden popy
--but this popy is different:
-  -when broken, it drops seeds and (if mature) popyseeds
-  -the popyseeds you can grind into oily popyseeds
-  -when you break vanilla-tree-leaves, they now drop leaf-items
-  -with the leaves and the oily popyseeds you can craft an oilbundle
-  -when you wait some time, the oilbundle turns into hardened popyoil
-  -the oil you can use like fat for crafting, but you dont have to kill animals!
--the popyseeds, oily popyseeds and the hardened oil can be eaten
--oily seeds perish faster than normal, but they give more saturation
-Uraniumsword:
--uranium is no longer useless in Vintage Story, you can craft uraniumswords!
--they have 6 attack-damage (more than all vanillaswords)
--to craft, smith an uraniumingot on an ironanvil, to obtain an uraniumsword head
--craft the head with a stick to the sword!
+  -you can find 3 new mushrooms:
+    -the stallion mushroom grows only on meadows, not in the forests
+    -morels grow in the forests and on the meadows
+      -when eaten, the morel regenerates some life
+    -hollow funguses grow in special caves, filled with mushroom rooted stone (break with shovel)
+      -they glow in the dark, need the most time of all 3 mushrooms to grow and give the least amount of saturation
+    -maybe you need to dig through the rock to find some :)
+  -all mushrooms can be cooked in mushroom soups
+
+Poppy:
+  -in the original game there is already one poppy: the golden poppy
+  -but this poppy is different:
+    -when broken, it drops seeds and (if mature) poppy seeds
+    -you can grind the poppy seeds into oily poppy seeds
+    -when you break vanilla-tree-leaves, they now drop leaf-items
+    -with the leaves and the oily poppy seeds you can craft an oil bundle
+    -when you wait some time, the oil bundle turns into hardened poppy oil
+    -you can use the oil to make fat for crafting, but you dont have to kill animals!
+  -the poppy seeds, oily poppy seeds and the hardened oil can be eaten
+  -oily seeds perish faster than normal, but they give more saturation
+
+Uranium sword:
+  -uranium is no longer useless in Vintage Story, you can craft uranium swords!
+  -they have 6 attack-damage (more than all vanilla swords)
+  -to craft, smith an uranium ingot on an iron anvil, to obtain an uranium sword head
+  -craft the head with a stick to the sword!
+
 Dungeon + Boss:
--in the world now can spawn custom dungeons 
--when you enter them, you will be stopped by a door
--but dont worrie: there is a key!
--next to the doors, or somewhere else in some corridors you will find strange statues
--destroy them, to summon a new monster
--when killed, it will drop a keypart
--you need four of them, to craft the key
--there are three doors in every dungeon
--after using the key, it disapperas
--be careful: the dungeon is full with traps!
--to summon the boss, you will need an eternitycrystal:
-  -in the world they will spawn new enemies (souldrinkers) at night
-  -when killing them, you can get a temporal heart, let it in your inventoy for a while, and it will dry out
-  -then you can grind it to temporal powder
-  -craft the crystal with clear quartz and this powder and use it on the altar
-  -with this powder you can craft temporal gears too
--once killed, the boss wil drop some...
-(no, find it out on your own :)  )
- Try also:
--if you like this mod, you should try this mods too:
-  -Lands of Chaos
-  -Dangerous Waters
+  -there can now spawn custom dungeons in the world 
+  -when you enter them, you will be stopped by a door
+  -but dont worry: there is a key!
+  -next to the doors, or somewhere else in some corridor you will find strange statues
+  -destroy them to summon a new monster
+  -when killed, it will drop a key part
+  -you need four of them to craft the key
+  -there are three doors in every dungeon
+  -after using the key, it disapperas
+  -be careful: the dungeon is full with traps!
+  -to summon the boss, you will need an eternity crystal:
+    -at night there will spawn new enemies in the world (souldrinkers)
+    -when killing them, you can get a temporal heart, leave it in your inventoy for a while, and it will dry out
+    -then you can grind it to temporal powder
+    -craft the crystal with clear quartz and this powder and use it on the altar
+    -with this powder you can craft temporal gears too
+  -once killed, the boss wil drop some...
+  (no, find it out on your own :)  )
+
+Also Try:
+  -if you like this mod, you should try these mods too:
+    -Lands of Chaos
+    -Dangerous Waters
+
 Music:
--bossmusic:
-  -Cavalry, by Aakash Gandhi, from YouTube audio library
--all other sounds are homemade or from the vanilla Vintage Story
+  -bossmusic:
+    -Cavalry, by Aakash Gandhi, from YouTube audio library
+  -all other sounds are homemade or from the vanilla Vintage Story
  
-I dont know, how this mod works on servers, you can try it, if you want, but do not, when you still need your server in the future xD
+I dont know how this mod works on servers, you can try it if you want, but don't do it when you still need your server in the future xD
  
 Enjoy the mod :)
